@@ -1,5 +1,18 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-pborman-getopt (2.1.0-1) unstable; urgency=medium
 
-  * Initial release
+  * d/control: Bump standards version to 4.7.0 (no change).
+  * New upstream version 2.1.0
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Martin Dosch <martin@mdosch.de>  Thu, 16 May 2024 19:45:30 +0000
+
+golang-github-pborman-getopt (1.1.0-2) unstable; urgency=medium
+
+  * Source only upload for transition to testing.
+
+ -- Martin Dosch <martin@mdosch.de>  Sun, 23 Jan 2022 16:15:51 +0100
+
+golang-github-pborman-getopt (1.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1003182)
+
+ -- Martin Dosch <martin@mdosch.de>  Wed, 05 Jan 2022 18:26:34 +0100
